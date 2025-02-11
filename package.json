@@ -1,0 +1,14 @@
+{
+  "name": "struzi2d",
+  "private": true,
+  "scripts": {
+    "changeset": "changeset"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@changesets/cli": "^2.27.12"
+  }
+}
