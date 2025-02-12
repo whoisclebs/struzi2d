@@ -1,4 +1,4 @@
-# Struzi2d
+# Struzi2d - Game engine
 
 **Struzi2d** is a modular game engine built in TypeScript with 2D rendering powered by [PIXI.js](https://pixijs.com/). Designed as a proof of concept to explore the limits of JavaScript, Struzi2d is not intended to replace existing engines but to demonstrate what can be achieved with modern web technologies.
 
