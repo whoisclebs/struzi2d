@@ -10,5 +10,6 @@
   "description": "",
   "devDependencies": {
     "@changesets/cli": "^2.27.12"
-  }
+  },
+  "workspaces": ["apps/*", "packages/*"]
 }
