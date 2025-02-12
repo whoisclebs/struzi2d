@@ -1,4 +1,3 @@
-```markdown
 # Struzi2d
 
 **Struzi2d** is a modular game engine built in TypeScript with 2D rendering powered by [PIXI.js](https://pixijs.com/). Designed as a proof of concept to explore the limits of JavaScript, Struzi2d is not intended to replace existing engines but to demonstrate what can be achieved with modern web technologies.
@@ -92,4 +91,3 @@ For questions, suggestions, or support, please contact hello [at] whoisclebs.com
 ---
 
 **Struzi2d** is continuously evolving. Follow updates and join the community to help improve this engine further!
-```
