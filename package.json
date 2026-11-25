@@ -11,5 +11,9 @@
   "devDependencies": {
     "@changesets/cli": "^2.28.1"
   },
-  "workspaces": ["apps/*", "packages/*"]
+  "workspaces": ["apps/*", "packages/*"],
+  "overrides": {
+    "tmp": "^0.2.6",
+    "tar": "^7.5.18"
+  }
 }

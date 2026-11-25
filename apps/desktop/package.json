@@ -19,7 +19,7 @@
     "@electron-forge/plugin-auto-unpack-natives": "^7.8.0",
     "@electron-forge/plugin-fuses": "^7.7.0",
     "@electron/fuses": "^1.8.0",
-    "electron": "35.1.5"
+    "electron": "42.11.18"
   },
   "keywords": [],
   "author": {
@@ -29,5 +29,9 @@
   "license": "MIT",
   "dependencies": {
     "electron-squirrel-startup": "^1.0.1"
+  },
+  "overrides": {
+    "tmp": "^0.2.6",
+    "tar": "^7.5.18"
   }
 }
